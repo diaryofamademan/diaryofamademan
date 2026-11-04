@@ -6,6 +6,11 @@ Austin, TX · [ianbalina.com](https://ianbalina.com)
 ## About
 Engineer-founder (M.S. Computer Engineering, GWU) who built Token Metrics from zero to $6.5M ARR, 100K+ users and a 50-person team — and previously held the **AI Forward Deployed Engineer** title at IBM, where I later carried a $4M enterprise AI/analytics quota at 194% (Hundred Percent Club).
 
+## Open skills
+Free, open-source playbooks AI agents can run end to end. These are the playbooks I wish I'd had.
+
+- **[Fundraising](https://github.com/diaryofamademan/skills/tree/main/fundraising)**: seed rounds, raising a fund, and selling a company
+
 ## How I build now: AI-agent engineering in production
 Engineering at Token Metrics runs as a production AI-agent operation across two TypeScript codebases (private: `tm-research`, `tm-media`):
 

@@ -15,6 +15,8 @@ Free, open-source playbooks AI agents can run end to end. These are the playbook
 
 - **[Game Theory for Decisions](https://github.com/diaryofamademan/skills/tree/main/game-theory-for-decisions)**: map the players, their payoffs, and the sequence of moves before negotiating, competing, or enforcing anything
 
+- **[Comms](https://github.com/diaryofamademan/skills/tree/main/comms)**: founder communications run as a decision procedure — name the moment, say it yourself and say it plainly, and never let a partial admission schedule the second scandal
+
 ## How I build now: AI-agent engineering in production
 Engineering at Token Metrics runs as a production AI-agent operation across two TypeScript codebases (private: `tm-research`, `tm-media`):
 

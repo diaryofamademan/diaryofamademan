@@ -11,7 +11,7 @@ Free, open-source playbooks AI agents can run end to end. These are the playbook
 
 - **[Fundraising](https://github.com/diaryofamademan/skills/tree/main/fundraising)**: seed rounds, raising a fund, and selling a company
 
-- **[First-Principles Thinking](https://github.com/diaryofamademan/skills/tree/main/first-principles-thinking)**: strip a decision, offer, or price down to physics, economics, and incentives, rebuild it, then run the echo on what the rebuild and the status quo set in motion
+- **[First-Principles Thinking](https://github.com/diaryofamademan/skills/tree/main/first-principles-thinking)**: strip a decision, offer, or price down to physics, economics, and incentives, rebuild it, then trace what the rebuild and the status quo each set in motion
 
 - **[Game Theory for Decisions](https://github.com/diaryofamademan/skills/tree/main/game-theory-for-decisions)**: map the players, their payoffs, and the sequence of moves before negotiating, competing, or enforcing anything
 

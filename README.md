@@ -17,6 +17,7 @@ Free, open-source playbooks AI agents can run end to end. These are the playbook
 
 - **[Comms](https://github.com/diaryofamademan/skills/tree/main/comms)**: founder communications run as a decision procedure — name the moment, say it yourself and say it plainly, and never let a partial admission schedule the second scandal
 - [Write in Your Voice](https://github.com/diaryofamademan/skills/tree/main/write-in-your-voice): draft in a person's real voice by building the evidence from how they actually speak: a source bank tiered spoken-first, drafts composed from their own sentences, and a gate that checks shape, not just words.
+- [Fix the Bottleneck](https://github.com/diaryofamademan/skills/tree/main/fix-the-bottleneck): find the one stage that sets a running system's rate and fix it in the order that moves output: state the goal as throughput, measure the chain, exploit and subordinate before elevating, and repeat when the constraint moves.
 
 ## How I build now: AI-agent engineering in production
 Engineering at Token Metrics runs as a production AI-agent operation across two TypeScript codebases (private: `tm-research`, `tm-media`):

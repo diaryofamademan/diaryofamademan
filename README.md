@@ -7,7 +7,7 @@ Austin, TX · [ianbalina.com](https://ianbalina.com)
 Engineer-founder (M.S. Computer Engineering, GWU) who built Token Metrics from zero to $6.5M ARR, 100K+ users and a 50-person team — and previously held the **AI Forward Deployed Engineer** title at IBM, where I later carried a $4M enterprise AI/analytics quota at 194% (Hundred Percent Club).
 
 ## Made Man Playbooks
-My open skills collection: free, open-source playbooks AI agents can run end to end. These are the playbooks I wish I'd had.
+Free, open-source playbooks AI agents can run end to end. Hand your agent a real method instead of a blank prompt: these are the playbooks I wish I'd had.
 
 - **[Fundraising](https://github.com/diaryofamademan/skills/tree/main/fundraising)**: seed rounds, raising a fund, and selling a company
 
@@ -42,3 +42,7 @@ Engineering at Token Metrics runs as a production AI-agent operation across two 
 - Launched the TMAI token to $150M+ FDV (Gate, MEXC, Bitmart, Bitpanda listings)
 - General Partner, Token Metrics Ventures — 40+ fund investments; 100+ angel investments
 - Author, *Crypto Investing Guide* (2021) · Speaker: MIT, UT Austin, Asia Blockchain Summit
+
+## Get the next playbook
+
+New skills drop as I build them. Leave an email at [ianbalina.com/skills](https://ianbalina.com/skills/) and each one arrives the day it drops, with the build notes behind it.

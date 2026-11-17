@@ -11,15 +11,15 @@ My open skills collection: free, open-source playbooks AI agents can run end to 
 
 - **[Fundraising](https://github.com/diaryofamademan/skills/tree/main/fundraising)**: seed rounds, raising a fund, and selling a company
 
-- **[First-Principles Thinking](https://github.com/diaryofamademan/skills/tree/main/first-principles-thinking)**: strip a decision, offer, or price down to physics, economics, and incentives, rebuild it, then trace what the rebuild and the status quo each set in motion
+- **[First-Principles Thinking](https://github.com/diaryofamademan/skills/tree/main/first-principles-thinking)**: take a decision, an offer, or a price down to what is actually true, build it back up, then work out what happens next, both with your rebuild and with things left as they are
 
 - **[Game Theory for Decisions](https://github.com/diaryofamademan/skills/tree/main/game-theory-for-decisions)**: map the players, their payoffs, and the sequence of moves before negotiating, competing, or enforcing anything
 
-- **[Comms](https://github.com/diaryofamademan/skills/tree/main/comms)**: founder communications run as a decision procedure — name the moment, say it yourself and say it plainly, and never let a partial admission schedule the second scandal
-- [Write in Your Voice](https://github.com/diaryofamademan/skills/tree/main/write-in-your-voice): draft in a person's real voice by building the evidence from how they actually speak: a source bank tiered spoken-first, drafts composed from their own sentences, and a gate that checks shape, not just words.
-- [Fix the Bottleneck](https://github.com/diaryofamademan/skills/tree/main/fix-the-bottleneck): find the one stage that sets a running system's rate and fix it in the order that moves output: state the goal as throughput, measure the chain, exploit and subordinate before elevating, and repeat when the constraint moves.
-- [Stop the Scroll](https://github.com/diaryofamademan/skills/tree/main/stop-the-scroll): build any piece of content so its hook and its call to action each stand out in a sea of 100 and stand alone with full context: AIDA with the ends hardened, over a universal, impact-led middle.
-- [Cold Outreach](https://github.com/diaryofamademan/skills/tree/main/cold-outreach): write a cold email or cold DM that earns replies, built from graded evidence, not recycled advice nobody ever tested: test the offer, build the batch from a trigger, research one true observation, and ask one question about interest.
+- **[Comms](https://github.com/diaryofamademan/skills/tree/main/comms)**: founder communications run as a set of steps: name the moment, say it yourself, say it plainly, and never admit only part of it, because the rest comes out later as a second scandal
+- [Write in Your Voice](https://github.com/diaryofamademan/skills/tree/main/write-in-your-voice): draft in a person's real voice, from how they actually speak. Build a bank of their own words, spoken words first. Draft from their own sentences. And check the shape of the draft, not just its words.
+- [Fix the Bottleneck](https://github.com/diaryofamademan/skills/tree/main/fix-the-bottleneck): find the one stage that sets a running system's pace, and fix it in the order that moves output. State the goal as throughput, measure the chain, get more from the constraint and set the rest to its pace before you spend to lift it, and run it again when the constraint moves.
+- [Stop the Scroll](https://github.com/diaryofamademan/skills/tree/main/stop-the-scroll): build any piece of content so its hook and its call to action each stand out in a sea of 100, and stand alone with nothing around them: AIDA with the ends hardened, over a middle anyone can follow, about impact.
+- [Cold Outreach](https://github.com/diaryofamademan/skills/tree/main/cold-outreach): write a cold email or cold DM that earns replies, built from evidence that was checked, not advice nobody ever tested: test the offer, build the batch from a trigger, research one true observation, and ask one question about interest.
 
 ## How I build now: AI-agent engineering in production
 Engineering at Token Metrics runs as a production AI-agent operation across two TypeScript codebases (private: `tm-research`, `tm-media`):
